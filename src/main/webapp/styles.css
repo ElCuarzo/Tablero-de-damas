@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+table{
+	border-spacing: 0px;
+}
+
+body {
+	background-color: gray;
+	
+}
+
+.blanco {
+	background-color: white;
+	width: 80px;
+	height: 80px;
+}
+
+.negro {
+	background-color: black;
+	width: 80px;
+	height: 80px;
+}
+
